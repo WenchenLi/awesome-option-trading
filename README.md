@@ -16,6 +16,9 @@ Discover performance statistics on percentage change for various options strateg
 
 [options_backtester](https://github.com/lambdaclass/options_backtester) : Simple backtesting software for options
 
+[OptionSuite](https://github.com/sirnfs/OptionSuite): Option / stock strategy backtester and live trader* framework.
+Getting started decribes what you need in order to get started backtesting. need to purchase a data package from ivolatility in order to use this library since the sample data is quite limited.
+
 [wallstreet](https://github.com/mcdallas/wallstreet):Real time stock and option data. Orignal data from yahoo finance. 
 
 [Options-Trading-Strategies-in-Python](https://github.com/PyPatel/Options-Trading-Strategies-in-Python): Developing Options Trading Strategies using Technical Indicators and Quantitative Methods | last update  2019.
