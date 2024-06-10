@@ -5,6 +5,7 @@
 
 
 [ibkr-options-volatility-trading](https://github.com/mcf-long-short/ibkr-options-volatility-trading) : Volatility trading using Long and Short Straddle options strategies on Interactive Broker using Yahoo Finance and TWS API
+[![GitHub Repo stars](https://img.shields.io/github/stars/mcf-long-short/ibkr-options-volatility-trading?style=social)](https://github.com/mcf-long-short/ibkr-options-volatility-trading) : Volatility trading using Long and Short Straddle options strategies on Interactive Broker using Yahoo Finance and TWS API
 
 [thetagang](https://github.com/brndnmtthws/thetagang):ThetaGang is an IBKR bot for collecting money, ThetaGang is an IBKR trading bot for collecting premium by selling options using "The Wheel" strategy. The Wheel is a strategy that surfaced on Reddit, but has been used by many in the past. This bot implements a slightly modified version of The Wheel
 
