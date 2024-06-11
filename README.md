@@ -23,5 +23,6 @@ Getting started decribes what you need in order to get started backtesting. need
 
 [Options-Trading-Strategies-in-Python](https://github.com/PyPatel/Options-Trading-Strategies-in-Python) [![GitHub Repo stars](https://img.shields.io/github/stars/PyPatel/Options-Trading-Strategies-in-Python?style=social)](https://github.com/PyPatel/Options-Trading-Strategies-in-Python): Developing Options Trading Strategies using Technical Indicators and Quantitative Methods | last update  2019.
 
+[Quant DSL](https://github.com/johnbywater/quantdsl)[![GitHub Repo stars](https://img.shields.io/github/stars/johnbywater/quantdsl?style=social)](johnbywater/quantdsl): Domain specific language for quantitative analytics in finance and trading.
 
 ## books :
